@@ -1,0 +1,30 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifyreact2-dev-111346-authRole",
+            "UnauthRoleArn": "arn:aws:iam::936540702232:role/amplify-amplifyreact2-dev-111346-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::936540702232:role/amplify-amplifyreact2-dev-111346-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-amplifyreact2-dev-111346-deployment",
+            "UnauthRoleName": "amplify-amplifyreact2-dev-111346-unauthRole",
+            "StackName": "amplify-amplifyreact2-dev-111346",
+            "StackId": "arn:aws:cloudformation:us-east-1:936540702232:stack/amplify-amplifyreact2-dev-111346/362d08c0-f0fb-11ea-9d7e-0afe492705d7",
+            "AmplifyAppId": "d3t6ea879daalx"
+        },
+        "categories": {
+            "function": {
+                "amplifyreact22faf794bCustomMessage": {
+                    "REDIRECTURL": "http://localhost:3000/home",
+                    "EMAILSUBJECT": "Your Verification Code",
+                    "EMAILMESSAGE": ""
+                },
+                "amplifyreact22faf794bPreTokenGeneration": {}
+            },
+            "auth": {
+                "amplifyreact22faf794b": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
+        }
+    }
+}
